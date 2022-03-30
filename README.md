@@ -16,16 +16,16 @@ Nom | Langue | Description
 [Duotrigordle](https://duotrigordle.com/) | Anglais | Trouver 32 mots en moints de 37 essais
 [Queerdle](https://queerdle.com/) | Anglais |Mots anglais tirés du lexique LGBTQ (parfois +18)
 [Letterle](https://edjefferson.com/letterle/) | N/A | Trouver une seule lettre...
-[Antiwordle](https://www.antiwordle.com/) | Anglais | Chaque essai réduit l'ensemble de lettres que vous pouvez placer ; le but est de prolonger la partie le plus longtemps possible
+[Antiwordle](https://www.antiwordle.com/) | Anglais | Chaque essai réduit l'ensemble de lettres que vous pouvez placer&nbsp;; le but est de prolonger la partie le plus longtemps possible
 [Absurdle](https://qntm.org/files/wordle/) | Anglais | Une IA joue contre vous en tentant de prolonger la partie le plus longtemps possible. [Voir les règles](https://qntm.org/wordle)
 [Semantle](https://semantle.novalis.org/) | Anglais | Trouver le mot secret selon son champ lexical
 [Cémantix](http://cemantix.herokuapp.com/) | Français | Version française de Semantle
 [Heardle](https://heardle.app/) | N/A | Trouver un morceau de musique à partir de son intro
 [Worldle](https://worldle.teuteuf.fr/) | N/A | Trouver un pays ou une région du monde
 [Primel](https://converged.yt/primel/) | N/A | Trouver un nombre premier
-[ℤₚ-ordle](https://mabotkin.github.io/zpordle/) | N/A | Trouver un nombre ente 1 et 1000 en fonction de sa distance p-adique (voir le site)
+[ℤₚ-ordle](https://mabotkin.github.io/zpordle/) | N/A | Trouver un nombre entre 1 et 1000 en fonction de la [distance p-adique](https://fr.wikipedia.org/wiki/Th%C3%A9or%C3%A8me_d%27Ostrowski#Valeur_absolue_p-adique)
 [Mathler](https://www.mathler.com/) | N/A | Retrouver l'opération mathématique qui donne le résultat donné
 [Hard Mathler](https://hard.mathler.com/) | N/A | Mathler version difficile
 [Nerdle](https://nerdlegame.com/) | N/A | Proche de Mathler, mais il faut trouver aussi le résultat
-[Summle](https://summle.net/) | N/A | Trouver une suite d'opération qui donne un résultat, façon "Le Compte Est Bon"
+[Summle](https://summle.net/) | N/A | Trouver une suite d'opérations qui donne un résultat, façon «&nbsp;Le Compte Est Bon&nbsp;»
 [Chessle](https://jackli.gg/chessle/) | N/A | Trouver l'ouverture d'une partie d'échecs
