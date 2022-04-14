@@ -21,6 +21,7 @@ Nom | Langue | Description
 [Semantle](https://semantle.novalis.org/) | Anglais | Trouver le mot secret selon son champ lexical
 [Cémantix](http://cemantix.herokuapp.com/) | Français | Version française de Semantle
 [Heardle](https://heardle.app/) | N/A | Trouver un morceau de musique à partir de son intro
+[Pixel Movie](https://pixelmovie.github.io/) | Français/Anglais | Retrouver le film correspondant à une affiche pixellisée
 [Worldle](https://worldle.teuteuf.fr/) | N/A | Trouver un pays ou une région du monde
 [Primel](https://converged.yt/primel/) | N/A | Trouver un nombre premier
 [ℤₚ-ordle](https://mabotkin.github.io/zpordle/) | N/A | Trouver un nombre entre 1 et 1000 en fonction de la [distance p-adique](https://fr.wikipedia.org/wiki/Th%C3%A9or%C3%A8me_d%27Ostrowski#Valeur_absolue_p-adique)
