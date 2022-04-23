@@ -10,6 +10,7 @@ Nom | Langue | Description
 [Zutom](https://zutom.z-lan.fr/) | Français | Trouver 5 mots en 10 minutes (en préparation de la ZLAN 2022)
 [Le Mot](https://wordle.louan.me/) | Français | Wordle en français
 [\#LeMotLeJeu](https://www.solitaire-play.com/lemot/) | Français | Wordle (aussi) en français
+[Wordle Unlimited](https://mywordle.org/wordle-french/) | Multilingue | Wordle illimité
 [Dordle](https://zaratustra.itch.io/dordle) | Anglais | Trouver 2 mots en même temps
 [Quordle](https://www.quordle.com/) | Anglais | Trouver 4 mots en moins de 9 essais
 [Octordle](https://octordle.com/) | Anglais | Trouver 8 mots en moins de 13 essais
