@@ -21,6 +21,7 @@ Nom | Langue | Description
 [Absurdle](https://qntm.org/files/wordle/) | Anglais | Une IA joue contre vous en tentant de prolonger la partie le plus longtemps possible. [Voir les règles](https://qntm.org/wordle)
 [Semantle](https://semantle.novalis.org/) | Anglais | Trouver le mot secret selon son champ lexical
 [Cémantix](http://cemantix.herokuapp.com/) | Français | Version française de Semantle
+[Redactle](https://www.redactle.com/) | Anglais | Retrouver un article de Wikipédia en langue anglaise
 [Heardle](https://heardle.app/) | N/A | Trouver un morceau de musique à partir de son intro
 [Pixel Movie](https://pixelmovie.github.io/) | Français/Anglais | Retrouver le film correspondant à une affiche pixellisée
 [Framed](https://framed.wtf/) | Anglais | Retrouver le film dont les images sont tirées
