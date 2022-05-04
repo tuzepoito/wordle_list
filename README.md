@@ -19,7 +19,7 @@ Nom | Langue | Description
 [Letterle](https://edjefferson.com/letterle/) | N/A | Trouver une seule lettre...
 [Antiwordle](https://www.antiwordle.com/) | Anglais | Chaque essai réduit l'ensemble de lettres que vous pouvez placer&nbsp;; le but est de prolonger la partie le plus longtemps possible
 [Absurdle](https://qntm.org/files/wordle/) | Anglais | Une IA joue contre vous en tentant de prolonger la partie le plus longtemps possible. [Voir les règles](https://qntm.org/wordle)
-[Semantle](https://semantle.novalis.org/) | Anglais | Trouver le mot secret selon son champ lexical
+[Semantle](https://semantle.com/) | Anglais | Trouver le mot secret selon son champ lexical
 [Cémantix](http://cemantix.herokuapp.com/) | Français | Version française de Semantle
 [Redactle](https://www.redactle.com/) | Anglais | Retrouver un article de Wikipédia en langue anglaise
 [Heardle](https://heardle.app/) | N/A | Trouver un morceau de musique à partir de son intro
