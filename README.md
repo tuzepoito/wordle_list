@@ -31,5 +31,6 @@ Nom | Langue | Description
 [Mathler](https://www.mathler.com/) | N/A | Retrouver l'opération mathématique qui donne le résultat donné
 [Hard Mathler](https://hard.mathler.com/) | N/A | Mathler version difficile
 [Nerdle](https://nerdlegame.com/) | N/A | Proche de Mathler, mais il faut trouver aussi le résultat
+[Mini Nerdle](https://mini.nerdlegame.com/) | N/A | Nerdle avec une grille plus courte
 [Summle](https://summle.net/) | N/A | Trouver une suite d'opérations qui donne un résultat, façon «&nbsp;Le Compte Est Bon&nbsp;»
 [Chessle](https://jackli.gg/chessle/) | N/A | Trouver l'ouverture d'une partie d'échecs
