@@ -20,8 +20,9 @@ Nom | Langue | Description
 [Antiwordle](https://www.antiwordle.com/) | Anglais | Chaque essai réduit l'ensemble de lettres que vous pouvez placer&nbsp;; le but est de prolonger la partie le plus longtemps possible
 [Absurdle](https://qntm.org/files/wordle/) | Anglais | Une IA joue contre vous en tentant de prolonger la partie le plus longtemps possible. [Voir les règles](https://qntm.org/wordle)
 [Semantle](https://semantle.com/) | Anglais | Trouver le mot secret selon son champ lexical
-[Cémantix](http://cemantix.herokuapp.com/) | Français | Version française de Semantle
+[Cémantix](https://cemantix.herokuapp.com/) | Français | Version française de Semantle
 [Redactle](https://www.redactle.com/) | Anglais | Retrouver un article de Wikipédia en langue anglaise
+[Pédantix](https://cemantix.herokuapp.com/pedantix) | Français | Équivalent français de Redactle
 [Heardle](https://heardle.app/) | N/A | Trouver un morceau de musique à partir de son intro
 [Pixel Movie](https://pixelmovie.github.io/) | Français/Anglais | Retrouver le film correspondant à une affiche pixellisée
 [Framed](https://framed.wtf/) | Anglais | Retrouver le film dont les images sont tirées
