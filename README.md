@@ -4,7 +4,7 @@ Liste de variantes de Wordle
 
 Nom | Langue | Description
 --- | ------ | -----------
-[Wordle](https://www.nytimes.com/games/wordle/index.html) | Anglais | L'original (je crois)
+[Wordle](https://www.nytimes.com/games/wordle/index.html) | Anglais | L'original
 [Sutom](https://sutom.nocle.fr) | Français | Plus proche du jeu télévisé Motus
 [Tusmo](https://www.tusmo.xyz/) | Français/Anglais | Comme Sutom, mais avec plus de modes (suites de mots, multi-joueur...)
 [Zutom](https://zutom.z-lan.fr/) | Français | Trouver 5 mots en 10 minutes (en préparation de la ZLAN 2022)
@@ -12,7 +12,7 @@ Nom | Langue | Description
 [\#LeMotLeJeu](https://www.solitaire-play.com/lemot/) | Français | Wordle (aussi) en français
 [Wordle Unlimited](https://mywordle.org/wordle-french/) | Multilingue | Wordle illimité
 [Dordle](https://zaratustra.itch.io/dordle) | Anglais | Trouver 2 mots en même temps
-[Quordle](https://www.quordle.com/) | Anglais | Trouver 4 mots en moins de 9 essais
+[Quordle](https://www.quordle.com/) | Multilingue | Trouver 4 mots en moins de 9 essais
 [Octordle](https://octordle.com/) | Anglais | Trouver 8 mots en moins de 13 essais
 [Duotrigordle](https://duotrigordle.com/) | Anglais | Trouver 32 mots en moints de 37 essais
 [Queerdle](https://queerdle.com/) | Anglais |Mots anglais tirés du lexique LGBTQ (parfois +18)
