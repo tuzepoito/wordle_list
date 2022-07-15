@@ -23,7 +23,7 @@ Nom | Langue | Description
 [Cémantix](https://cemantix.herokuapp.com/) | Français | Version française de Semantle
 [Redactle](https://www.redactle.com/) | Anglais | Retrouver un article de Wikipédia en langue anglaise
 [Pédantix](https://cemantix.herokuapp.com/pedantix) | Français | Équivalent français de Redactle
-[Heardle](https://heardle.app/) | N/A | Trouver un morceau de musique à partir de son intro
+[Heardle](https://www.spotify.com/heardle) | N/A | Trouver un morceau de musique à partir de son intro
 [Pixel Movie](https://pixelmovie.github.io/) | Français/Anglais | Retrouver le film correspondant à une affiche pixellisée
 [Framed](https://framed.wtf/) | Anglais | Retrouver le film dont les images sont tirées
 [Worldle](https://worldle.teuteuf.fr/) | N/A | Trouver un pays ou une région du monde
